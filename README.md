@@ -74,7 +74,7 @@
 | **Skrining Hipertensi** |Sistem Skrining penyakit hipertensi berbasis website | React, TypeScript, TanStack Router, Tailwind CSS|
 | **Dakwah Animation Project** | Animasi Islami 4 menit, 6 scene, dengan arsitektur class & timing 60fps | Processing |
 | **Monelo** | Website untuk pengeluaran keuangan| full php|
-| **Kalori Tracker** | Website untuk Kesehatan yang berfokus kepada masa kalori manusia | React, TypeScript, TanStack Router, Tailwind CSS|
+| **Kalori Tracker(kcal-coach-plus )** | Website untuk Kesehatan yang berfokus kepada masa kalori manusia | React, TypeScript, TanStack Router, Tailwind CSS|
 
 
 ---
