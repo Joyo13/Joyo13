@@ -23,7 +23,7 @@
 ###  About Me
 
 - 🎓 Mahasiswa **Teknik Informatika**, Universitas Islam Indonesia (UII), Yogyakarta
-- 👥 Saya juga aktif beberapa organisasi Contohnya saya menjabat **Kepala Bidang Himpunan Mahasiswa Informatika** yang membuat relasi di antara Himpunan di internal yaitu di ruang lingkup uii maupun External di Universitas lain, dan juga menjabat sebagai Koordinator **Koordinator Komisi B Porsematik**,Membuat aturan umum Acara Milad Informatika Uii dan Pekan Olahraga,Seni,dan edukasi.
+- 👥 Saya juga aktif beberapa organisasi Contohnya saya menjabat **Kepala Bidang HUMAS(Hubungan Mahasiswa) Himpunan Mahasiswa Informatika** yang membuat relasi di antara Himpunan di internal yaitu di ruang lingkup uii maupun External di Universitas lain, dan juga menjabat sebagai Koordinator **Koordinator Komisi B Porsematik**,Membuat aturan umum Acara Milad Informatika Uii dan Pekan Olahraga,Seni,dan edukasi.
 - 💻 Fokus sebagai **Fullstack Developer** — nyaman bekerja di sisi *frontend* maupun *backend*
 - 🚀 Sedang mengembangkan **Yogya Nomad Gateway**, platform web workation berbasis React & TypeScript
 - 🎨 Punya minat di bidang kreatif — mengerjakan proyek animasi bertema Islami menggunakan Processing
@@ -79,7 +79,7 @@
 
 ---
 
-###  GitHub Stats
+
 
 ### 🎮 Contribution Graph
 
