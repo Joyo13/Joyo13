@@ -4,19 +4,23 @@
 
 <img src="assets/github_header_banner.png" width="100%" style="border-radius: 12px; margin-top: 12px;" />
 
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2EA5E9&center=true&vCenter=true&width=680&lines=Fullstack+Developer+(Frontend+%26+Backend);React+%7C+TypeScript+%7C+Tailwind+CSS;Informatics+Student+at+UII;Building+ideas+into+real+products" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mgustriando@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://instagram.com/mhd_dio_joyo" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<br/><br/>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mgustriando@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/mhd_dio_joyo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<br/>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-2EA5E9?style=for-the-badge" />
+</p>
 
 </div>
 
@@ -37,7 +41,7 @@
 - 🎨 Punya minat di bidang kreatif — mengerjakan proyek animasi bertema Islami menggunakan Processing.
 - 🌱 Terus belajar hal baru seputar pengembangan sistem informasi, arsitektur web modern, dan tooling berbasis AI.
 - 🤝 Terbuka untuk kolaborasi proyek mahasiswa, riset, maupun proyek open source.
-- ⚡ Fun fact: salah satu karakter dalam proyek animasi tim saya diberi nama "Joyo. 😄
+- ⚡ Fun fact: salah satu karakter dalam proyek animasi tim saya diberi nama "Joyo" .😄
 
 <br/>
 
@@ -90,7 +94,7 @@
 | **Yogya Nomad Gateway** | Platform web workation untuk kawasan Gunungkidul, dibangun bersama tim NEXA | React, TypeScript, TanStack Router, Tailwind CSS |
 | **Skrining Hipertensi** | Sistem skrining penyakit hipertensi berbasis website | React, TypeScript, TanStack Router, Tailwind CSS |
 | **Dakwah Animation Project** | Animasi Islami 4 menit, 6 scene, dengan arsitektur class & timing 60fps | Processing |
-| **Monelo** | Website untuk pengeluaran keuangan | full php |
+| **Monelo** | Website untuk pengeluaran keuangan | Full php |
 | **Kalori Tracker (kcal-coach-plus)** | Website untuk kesehatan yang berfokus kepada masa kalori manusia | React, TypeScript, TanStack Router, Tailwind CSS |
 
 <br/>
