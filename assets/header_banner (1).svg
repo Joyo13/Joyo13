@@ -1,0 +1,48 @@
+<svg viewBox="0 0 1400 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#2EA5E9"/>
+    </linearGradient>
+    <linearGradient id="waveFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1400" height="300" fill="url(#bg)"/>
+
+  <!-- animated wave layer 1 -->
+  <path fill="url(#waveFill)">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+        M0,230 C 233,210 466,250 700,230 C 933,210 1166,250 1400,230 L1400,300 L0,300 Z;
+        M0,230 C 233,250 466,210 700,230 C 933,250 1166,210 1400,230 L1400,300 L0,300 Z;
+        M0,230 C 233,210 466,250 700,230 C 933,210 1166,250 1400,230 L1400,300 L0,300 Z
+      "/>
+  </path>
+
+  <!-- animated wave layer 2 (front, lighter, faster) -->
+  <path fill="#3fb6f5" opacity="0.55">
+    <animate attributeName="d" dur="4.5s" repeatCount="indefinite"
+      values="
+        M0,260 C 233,245 466,275 700,260 C 933,245 1166,275 1400,260 L1400,300 L0,300 Z;
+        M0,260 C 233,275 466,245 700,260 C 933,275 1166,245 1400,260 L1400,300 L0,300 Z;
+        M0,260 C 233,245 466,275 700,260 C 933,245 1166,275 1400,260 L1400,300 L0,300 Z
+      "/>
+  </path>
+
+  <!-- title text, fades in -->
+  <text x="700" y="140" text-anchor="middle" font-family="Poppins, Segoe UI, sans-serif"
+        font-size="44" font-weight="700" fill="#ffffff" opacity="0">
+    Hi, I'm M. Dwijoyo Gustriando
+    <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <!-- subtitle text, fades in slightly later -->
+  <text x="700" y="185" text-anchor="middle" font-family="Poppins, Segoe UI, sans-serif"
+        font-size="22" fill="#cfe8ff" opacity="0">
+    Fullstack Developer  |  Informatics Student @ UII
+    <animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="1.2s" fill="freeze"/>
+  </text>
+</svg>

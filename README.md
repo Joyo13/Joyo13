@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2EA5E9&height=250&section=header&text=Hi%20,%20Im%20M.%20Dwijoyo Gustriando&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20-%20Informatics%20Student%20at%20UII&descAlignY=54&descSize=17&descColor=cfe8ff" width="100%"/>
+<img src="assets/header_banner (1).svg" width="100%" style="border-radius: 12px;" />
 
 <img src="assets/github_header_banner.png" width="100%" style="border-radius: 12px; margin-top: 12px;" />
 
@@ -30,14 +30,14 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0F172A&height=70&section=header&text=About%20Me&fontSize=28&fontColor=2EA5E9&fontAlignY=55" width="100%"/>
 </div>
 
-- 🎓 Mahasiswa **Teknik Informatika**, Universitas Islam Indonesia (UII), Yogyakarta
-- 👥 Aktif di beberapa organisasi — menjabat **Kepala Bidang HUMAS (Hubungan Mahasiswa) Himpunan Mahasiswa Informatika**, membangun relasi antar himpunan baik internal UII maupun eksternal ke universitas lain, serta **Koordinator Komisi B Porsematik**, menyusun aturan umum acara Milad Informatika UII dan Pekan Olahraga, Seni, dan Edukasi
-- 💻 Fokus sebagai **Fullstack Developer** — nyaman bekerja di sisi *frontend* maupun *backend*
-- 🚀 Sedang mengembangkan **Yogya Nomad Gateway**, platform web workation berbasis React & TypeScript
-- 🎨 Punya minat di bidang kreatif — mengerjakan proyek animasi bertema Islami menggunakan Processing
-- 🌱 Terus belajar hal baru seputar pengembangan sistem informasi, arsitektur web modern, dan tooling berbasis AI
-- 🤝 Terbuka untuk kolaborasi proyek mahasiswa, riset, maupun proyek open source
-- ⚡ Fun fact: salah satu karakter dalam proyek animasi tim saya diberi nama "Joyo" 😄
+- 🎓 Mahasiswa **Teknik Informatika**, Universitas Islam Indonesia (UII), Yogyakarta.
+- 👥 Aktif di beberapa organisasi — menjabat **Kepala Bidang HUMAS (Hubungan Mahasiswa) Himpunan Mahasiswa Informatika**, membangun relasi antar himpunan baik internal UII maupun eksternal ke universitas lain, serta **Koordinator Komisi B Porsematik**, menyusun peraturan umum acara Milad Informatika UII dan Pekan Olahraga, Seni, dan Edukasi.
+- 💻 Fokus sebagai **Fullstack Developer** — nyaman bekerja di sisi *frontend* maupun *backend*.
+- 🚀 Sedang mengembangkan **Yogya Nomad Gateway**, platform web workation berbasis React & TypeScript.
+- 🎨 Punya minat di bidang kreatif — mengerjakan proyek animasi bertema Islami menggunakan Processing.
+- 🌱 Terus belajar hal baru seputar pengembangan sistem informasi, arsitektur web modern, dan tooling berbasis AI.
+- 🤝 Terbuka untuk kolaborasi proyek mahasiswa, riset, maupun proyek open source.
+- ⚡ Fun fact: salah satu karakter dalam proyek animasi tim saya diberi nama "Joyo. 😄
 
 <br/>
 
