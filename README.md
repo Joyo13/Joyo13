@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1B4965,100:2EA5E9&height=250&section=header&text=Hi%20,%20I'm%20M.%20Dwijoyo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%7C%20Informatics%20Student%20@%20UII&descAlignY=54&descSize=17&descColor=cfe8ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1B4965,100:2EA5E9&height=250&section=header&text=Hi%20,%20I'm%20M.%20Dwijoyo Gustriando&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%7C%20Informatics%20Student%20@%20UII&descAlignY=54&descSize=17&descColor=cfe8ff" width="100%"/>
 
 <img src="assets/github_header_banner.png" width="100%" style="border-radius: 12px; margin-top: 12px;" />
 
@@ -119,7 +119,7 @@
 <br/>
 
 Terbuka untuk diskusi seputar pengembangan web, sistem informasi, atau kolaborasi proyek mahasiswa.
-Jangan ragu untuk menghubungi saya! 🚀
+Jangan ragu untuk menghubungi saya! 
 
 <br/>
 
