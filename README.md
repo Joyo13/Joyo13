@@ -119,7 +119,7 @@
 <br/>
 
 Terbuka untuk diskusi seputar pengembangan web, sistem informasi, atau kolaborasi proyek mahasiswa.
-Jangan ragu untuk menghubungi saya! 
+Jangan ragu untuk menghubungi saya! terimakasih gais
 
 <br/>
 
