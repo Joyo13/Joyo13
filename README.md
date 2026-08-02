@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header_banner (1).svg" width="100%" style="border-radius: 12px;" />
+<img src="assets/header_banner (2).svg" width="100%" style="border-radius: 12px;" />
 
 <img src="assets/github_header_banner.png" width="100%" style="border-radius: 12px; margin-top: 12px;" />
 
